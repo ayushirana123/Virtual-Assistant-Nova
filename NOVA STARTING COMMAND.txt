@@ -1,0 +1,7 @@
+NOVA STARTING COMMAND
+
+ nova hello
+nova wht is date
+nova who r u
+nova open YouTube
+
